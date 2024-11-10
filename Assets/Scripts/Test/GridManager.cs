@@ -10,6 +10,9 @@ public class GridManager : MonoBehaviour
     private Grid grid;
     public Grid Grid => grid;
 
+    public int startX, startY;
+
+
     private void Awake()
     {
         Instance = this;
@@ -18,14 +21,13 @@ public class GridManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        grid = new Grid(3, 3, 1);
+        grid = new Grid(16, 9, 1);
 
         InitCharacter();
     }
 
     private void InitCharacter()
-    {        // modify this value for init position of character/enemy
-        int startX = 0, startY = 0;
+    {        
         character.SetInitPosition(startX, startY);
         character.transform.position = grid.GetGridCenterPosition(startX, startY);
     }
