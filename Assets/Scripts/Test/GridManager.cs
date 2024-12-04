@@ -7,10 +7,12 @@ public class GridManager : MonoBehaviour
 {
     public static GridManager Instance;
     public Character character;
+    public Enemy enemy;
     private Grid grid;
     public Grid Grid => grid;
 
-    public int startX, startY;
+    public int startPlayerX, startPlayerY;
+    public int startEnemyX, startEnemyY;
 
 
     private void Awake()
@@ -28,7 +30,10 @@ public class GridManager : MonoBehaviour
 
     private void InitCharacter()
     {        
-        character.SetInitPosition(startX, startY);
-        character.transform.position = grid.GetGridCenterPosition(startX, startY);
+        character.SetInitPosition(startPlayerX, startPlayerY);
+        character.transform.position = grid.GetGridCenterPosition(startPlayerX, startPlayerY);
+
+        enemy.SetInitPosition(startEnemyX, startEnemyY);
+        enemy.transform.position = grid.GetGridCenterPosition(startEnemyX, startEnemyY);
     }
 }

@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Bullet
+  - Object
+  - ExplosionObject
   layers:
   - Default
   - TransparentFX
@@ -11,8 +14,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - Objects
+  - Bullets
   - 
   - 
   - 
@@ -49,6 +52,9 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 99576293
+    locked: 0
+  - name: Objects
+    uniqueID: 3732359571
     locked: 0
   - name: UI
     uniqueID: 3128988629
