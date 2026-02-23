@@ -1,6 +1,5 @@
 using System.Collections;
 using System.Collections.Generic;
-using TMPro;
 using UnityEngine;
 
 public class GridManager : MonoBehaviour
@@ -8,28 +7,36 @@ public class GridManager : MonoBehaviour
     public static GridManager Instance;
     public Character character;
     public Enemy enemy;
+
     private Grid grid;
     public Grid Grid => grid;
 
-    public int startPlayerX, startPlayerY;
-    public int startEnemyX, startEnemyY;
+    [Header("Grid Settings")]
+    public int gridWidth = 16;
+    public int gridHeight = 7;
+    public float cellSize = 1;
 
+    [Header("Start Player Positions")]
+    public int startPlayerX;
+    public int startPlayerY;
+    [Header("Start Enemy Positions")]
+    public int startEnemyX;
+    public int startEnemyY;
 
     private void Awake()
     {
         Instance = this;
     }
 
-    // Start is called before the first frame update
     void Start()
     {
-        grid = new Grid(16, 9, 1);
+        grid = new Grid(gridWidth, gridHeight, cellSize);
 
         InitCharacter();
     }
 
     private void InitCharacter()
-    {        
+    {
         character.SetInitPosition(startPlayerX, startPlayerY);
         character.transform.position = grid.GetGridCenterPosition(startPlayerX, startPlayerY);
 

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c15257002d0d8d8429bc8d50987accf1
+guid: a9660fae33fe903499cc3acf570d8b0c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -110,736 +110,862 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Player Front Sheet B&W__0
+      name: Player Side Sheet_0
       rect:
         serializedVersion: 2
         x: 15
         y: 179
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d0fbdbf5394b4844814ab69fe23f739
-      internalID: 968185099
+      spriteID: 5d5493252851f4849a07e224837977a1
+      internalID: -1745200834
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__1
+      name: Player Side Sheet_1
       rect:
         serializedVersion: 2
         x: 63
         y: 179
         width: 16
         height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0db0f47ebd30acd45944359023798920
-      internalID: -2114391264
+      spriteID: 2ae98ad2295d6f64bbcd195630169857
+      internalID: 146158100
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__2
+      name: Player Side Sheet_2
       rect:
         serializedVersion: 2
         x: 111
         y: 179
         width: 16
         height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9205d12fcbae0b141af18159cd4dd273
-      internalID: -1182083208
+      spriteID: da1339111348b814baf405922f6a4220
+      internalID: 643823461
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__3
+      name: Player Side Sheet_3
       rect:
         serializedVersion: 2
         x: 159
         y: 179
         width: 16
         height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f0ae1f76ac8684408f9b2689a048930
-      internalID: 1469063471
+      spriteID: bf954ddfa0cca7c4e8728e4453f48deb
+      internalID: 1283361798
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__4
+      name: Player Side Sheet_4
       rect:
         serializedVersion: 2
         x: 207
         y: 179
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f5cde0f8a9d1d0542ae50c9b59b0cad5
-      internalID: -135852738
+      spriteID: e399c53b1fbb9374284d778626a590ab
+      internalID: -974315977
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__5
+      name: Player Side Sheet_5
       rect:
         serializedVersion: 2
         x: 255
         y: 179
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1146b6f3d8391a74f9a10073c2b30759
-      internalID: -1513758865
+      spriteID: 4efd66e07993a1a43a956233a1ecfad1
+      internalID: 668148782
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__6
+      name: Player Side Sheet_6
       rect:
         serializedVersion: 2
         x: 15
         y: 135
         width: 16
         height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1964156ac9233a243af31ed027e50571
-      internalID: -1625631772
+      spriteID: d9bd05a96b2d62b4e8134d09581d977a
+      internalID: -2146821332
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__7
+      name: Player Side Sheet_7
       rect:
         serializedVersion: 2
         x: 63
         y: 135
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 587f406de98ca2e4db821fb867347c77
-      internalID: 2065036256
+      spriteID: 9f6675b7028be0742b70d6a4cb898056
+      internalID: -421371157
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__8
+      name: Player Side Sheet_8
       rect:
         serializedVersion: 2
         x: 111
         y: 135
         width: 16
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9e4952f54a1512145a8cd80077472356
-      internalID: -45109681
+      spriteID: dbf7d3130f6a5c341ad3c52acb286412
+      internalID: 16484056
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__9
+      name: Player Side Sheet_9
       rect:
         serializedVersion: 2
         x: 159
         y: 135
         width: 16
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 714820a257942fd45954da588b650c1e
-      internalID: -522817393
+      spriteID: 7c71b591b4d6fba48b0b3aacb7cbcea4
+      internalID: -1844595085
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__10
+      name: Player Side Sheet_10
       rect:
         serializedVersion: 2
         x: 207
         y: 135
         width: 16
         height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d2f82df0334a11c43b0d71040637164a
-      internalID: -178137107
+      spriteID: c6d1f9d8dc9263e4791c5f136eef777f
+      internalID: 1420559876
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__11
+      name: Player Side Sheet_11
       rect:
         serializedVersion: 2
         x: 255
         y: 135
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1803d5553a643e47b48e3345c6e8d94
-      internalID: 903113920
+      spriteID: 289ee65eca9bfd942bed36f6c00563de
+      internalID: 1806054032
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__12
+      name: Player Side Sheet_12
       rect:
         serializedVersion: 2
         x: 303
         y: 135
         width: 16
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09936b2ec7740aa4693f768f8986e5b6
-      internalID: -1368369350
+      spriteID: 628e1a29b1a99e647a928d39bb999b99
+      internalID: 1445744357
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__13
+      name: Player Side Sheet_13
       rect:
         serializedVersion: 2
         x: 351
         y: 135
         width: 16
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6198e1dccdd32714bb27ddb9679074f6
-      internalID: 2102012699
+      spriteID: c638192699f34564c9fb702e195c7651
+      internalID: 1678540168
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__14
+      name: Player Side Sheet_14
       rect:
         serializedVersion: 2
         x: 15
         y: 91
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea88daf8d527d744f9c99488c1703afc
-      internalID: 1621682636
+      spriteID: 2cc50f8cd3c022c4ab62c20bc4394269
+      internalID: -2137852095
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__15
+      name: Player Side Sheet_15
       rect:
         serializedVersion: 2
         x: 63
         y: 91
-        width: 16
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d61dfdce1a990742a5a69439a553a3f
-      internalID: -243651245
+      spriteID: 5062806b76cce1b45a752dc87d942c7f
+      internalID: -1772454376
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__16
+      name: Player Side Sheet_16
       rect:
         serializedVersion: 2
-        x: 106
+        x: 111
         y: 91
-        width: 21
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe012932928fa5d4eb160c555feb1abd
-      internalID: 10094201
+      spriteID: 9411f7dcfac776343b9064d50398714e
+      internalID: 1190255197
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__17
+      name: Player Side Sheet_17
       rect:
         serializedVersion: 2
         x: 159
-        y: 89
-        width: 16
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 91
+        width: 31
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c4f9460e7aa0ab48ab3e2d5f56e2858
-      internalID: -1412345492
+      spriteID: 5152476de2626f540b72faf225f3c2b9
+      internalID: -81870731
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__18
+      name: Player Side Sheet_18
       rect:
         serializedVersion: 2
         x: 207
         y: 91
         width: 16
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1bdcd58722efe8340847248598b90c50
-      internalID: -1114276674
+      spriteID: 780879c01efa7bb48880b0b91ca05efc
+      internalID: -2003356813
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__19
+      name: Player Side Sheet_19
       rect:
         serializedVersion: 2
         x: 255
         y: 91
         width: 16
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2c65ad3555941b4e9d376a58997a7ae
-      internalID: 2138635940
+      spriteID: f7348ff89e408f04f8d6e6be3733f16b
+      internalID: 1225013194
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__20
+      name: Player Side Sheet_20
       rect:
         serializedVersion: 2
         x: 12
         y: 52
         width: 22
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2847e6be177cc3f478613ea321876480
-      internalID: 1725310938
+      spriteID: 43848409bb5515d4bb45d95d59301baa
+      internalID: -661598691
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__21
+      name: Player Side Sheet_21
       rect:
         serializedVersion: 2
         x: 15
         y: 3
         width: 16
         height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b41c66cacac99b4d904de068f9733db
-      internalID: -1790864931
+      spriteID: 4a965cc756653da45be00f7ccfe60513
+      internalID: -451975340
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__22
+      name: Player Side Sheet_22
       rect:
         serializedVersion: 2
         x: 61
         y: 3
         width: 20
         height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e9e6ced7cdcf17449a121dc3b9362166
-      internalID: 386371172
+      spriteID: 8457ec5d84be07a42b3b0aa950dbcfb7
+      internalID: 1540519855
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__23
+      name: Player Side Sheet_23
       rect:
         serializedVersion: 2
         x: 109
-        y: 3
+        y: 11
         width: 20
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f385b6a76a8665459980777a0b96681
-      internalID: -653863514
+      spriteID: 422bb09e75646d84e96de00ce9bc59b3
+      internalID: 1181549947
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__28
+      name: Player Side Sheet_24
       rect:
         serializedVersion: 2
         x: 159
-        y: 3
+        y: 30
         width: 16
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 32620e232d35bc64eb709f494f952fc2
-      internalID: -1697326697
+      spriteID: bb7c1f6daadb0bc42a56f2b6b08165a9
+      internalID: 1046166364
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__29
+      name: Player Side Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 27
+        width: 16
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b08f11b96bb2dc48996eb58e3a570bf
+      internalID: -1841635965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 26
+        width: 16
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7727f30ae96b0543a0258a8faff8d9a
+      internalID: -1492565092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 23
+        width: 16
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafe52b1b60d4bc4e9ac6edacb674a65
+      internalID: -113925401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 11
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6bdae7686ce954e87000f709ef9911
+      internalID: -139032452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet_29
       rect:
         serializedVersion: 2
         x: 205
         y: 3
         width: 20
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 117625f97aef1234ea5d727e26026888
-      internalID: 915621390
+      spriteID: 40444a9280fe84d4897211bdf7d95b0c
+      internalID: 1033013243
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__30
+      name: Player Side Sheet_30
       rect:
         serializedVersion: 2
         x: 254
         y: 3
-        width: 20
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 40391a57d86b1c34e89e582291d94f66
-      internalID: 1477231862
+      spriteID: 90c902f6bd8694b4aa98a69d02309ce1
+      internalID: -1402090260
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__31
+      name: Player Side Sheet_31
       rect:
         serializedVersion: 2
         x: 302
         y: 3
-        width: 23
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 18
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 711e1eedf2eec604290b8f47e531e4cf
-      internalID: -422754384
+      spriteID: 30fb9fca0de70484688a4704708b7525
+      internalID: 383167790
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__32
+      name: Player Side Sheet_32
       rect:
         serializedVersion: 2
         x: 350
         y: 3
         width: 22
         height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b0d06e2a21a7bb418b6bc2b5831220f
-      internalID: 1276370116
+      spriteID: ccc6c21ba6a30184d84d9bdd6c91908d
+      internalID: 1993715153
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__33
+      name: Player Side Sheet_33
       rect:
         serializedVersion: 2
         x: 398
         y: 3
         width: 19
         height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 24b8aeffff434f444b60508cdf25e33e
-      internalID: -1694689492
+      spriteID: 407f8b374f2d3994285c8d1f4f3f577e
+      internalID: -46742354
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__34
+      name: Player Side Sheet_34
       rect:
         serializedVersion: 2
         x: 445
         y: 3
         width: 19
         height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63427515f163e2a44a0f404405037d8d
-      internalID: -1567208539
+      spriteID: a6137caa03d83554393753f4746177b7
+      internalID: 621236386
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__35
+      name: Player Side Sheet_35
       rect:
         serializedVersion: 2
         x: 494
         y: 3
         width: 18
         height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 359f6005e9cd8654b8f6c59edf115c76
-      internalID: 1419750523
+      spriteID: 99d699729b1abe3429fd9ee3ba9ff428
+      internalID: -329146771
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__36
+      name: Player Side Sheet_36
       rect:
         serializedVersion: 2
         x: 542
         y: 3
         width: 18
         height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6af201ccb5dba940a964504b8385df9
-      internalID: -9254756
+      spriteID: dbf25a4352065bb45bdb7eb7a38a4dd9
+      internalID: -139264289
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__37
+      name: Player Side Sheet_37
       rect:
         serializedVersion: 2
         x: 590
         y: 3
         width: 18
         height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c94a0870fbfd4de45b67345a105b55c7
-      internalID: 723870235
+      spriteID: e7987d92134c45a48986585cc8599172
+      internalID: 1627992539
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player Front Sheet B&W__38
+      name: Player Side Sheet_38
       rect:
         serializedVersion: 2
         x: 638
         y: 3
         width: 18
         height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 50f03420d3100bf499dd20d605a2ace0
-      internalID: 841728385
+      spriteID: 68a8447dfba879643abdfecbcfb695dc
+      internalID: -1653608966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 3
+        width: 16
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa0ec5edc50e33479d423f1c5580e5d
+      internalID: 1486728234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 3
+        width: 16
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909bece2960dafc4abd2f5dd3a130f8f
+      internalID: -1415290115
       vertices: []
       indices: 
       edges: []
@@ -855,47 +981,47 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Player Front Sheet B&W__0: 968185099
-      Player Front Sheet B&W__1: -2114391264
-      Player Front Sheet B&W__10: -178137107
-      Player Front Sheet B&W__11: 903113920
-      Player Front Sheet B&W__12: -1368369350
-      Player Front Sheet B&W__13: 2102012699
-      Player Front Sheet B&W__14: 1621682636
-      Player Front Sheet B&W__15: -243651245
-      Player Front Sheet B&W__16: 10094201
-      Player Front Sheet B&W__17: -1412345492
-      Player Front Sheet B&W__18: -1114276674
-      Player Front Sheet B&W__19: 2138635940
-      Player Front Sheet B&W__2: -1182083208
-      Player Front Sheet B&W__20: 1725310938
-      Player Front Sheet B&W__21: -1790864931
-      Player Front Sheet B&W__22: 386371172
-      Player Front Sheet B&W__23: -653863514
-      Player Front Sheet B&W__24: -1788398025
-      Player Front Sheet B&W__25: 1428022472
-      Player Front Sheet B&W__26: -822083956
-      Player Front Sheet B&W__27: -1753169670
-      Player Front Sheet B&W__28: -1697326697
-      Player Front Sheet B&W__29: 915621390
-      Player Front Sheet B&W__3: 1469063471
-      Player Front Sheet B&W__30: 1477231862
-      Player Front Sheet B&W__31: -422754384
-      Player Front Sheet B&W__32: 1276370116
-      Player Front Sheet B&W__33: -1694689492
-      Player Front Sheet B&W__34: -1567208539
-      Player Front Sheet B&W__35: 1419750523
-      Player Front Sheet B&W__36: -9254756
-      Player Front Sheet B&W__37: 723870235
-      Player Front Sheet B&W__38: 841728385
-      Player Front Sheet B&W__39: -2012343564
-      Player Front Sheet B&W__4: -135852738
-      Player Front Sheet B&W__40: 581479438
-      Player Front Sheet B&W__5: -1513758865
-      Player Front Sheet B&W__6: -1625631772
-      Player Front Sheet B&W__7: 2065036256
-      Player Front Sheet B&W__8: -45109681
-      Player Front Sheet B&W__9: -522817393
+      Player Side Sheet_0: -1745200834
+      Player Side Sheet_1: 146158100
+      Player Side Sheet_10: 1420559876
+      Player Side Sheet_11: 1806054032
+      Player Side Sheet_12: 1445744357
+      Player Side Sheet_13: 1678540168
+      Player Side Sheet_14: -2137852095
+      Player Side Sheet_15: -1772454376
+      Player Side Sheet_16: 1190255197
+      Player Side Sheet_17: -81870731
+      Player Side Sheet_18: -2003356813
+      Player Side Sheet_19: 1225013194
+      Player Side Sheet_2: 643823461
+      Player Side Sheet_20: -661598691
+      Player Side Sheet_21: -451975340
+      Player Side Sheet_22: 1540519855
+      Player Side Sheet_23: 1181549947
+      Player Side Sheet_24: 1046166364
+      Player Side Sheet_25: -1841635965
+      Player Side Sheet_26: -1492565092
+      Player Side Sheet_27: -113925401
+      Player Side Sheet_28: -139032452
+      Player Side Sheet_29: 1033013243
+      Player Side Sheet_3: 1283361798
+      Player Side Sheet_30: -1402090260
+      Player Side Sheet_31: 383167790
+      Player Side Sheet_32: 1993715153
+      Player Side Sheet_33: -46742354
+      Player Side Sheet_34: 621236386
+      Player Side Sheet_35: -329146771
+      Player Side Sheet_36: -139264289
+      Player Side Sheet_37: 1627992539
+      Player Side Sheet_38: -1653608966
+      Player Side Sheet_39: 1486728234
+      Player Side Sheet_4: -974315977
+      Player Side Sheet_40: -1415290115
+      Player Side Sheet_5: 668148782
+      Player Side Sheet_6: -2146821332
+      Player Side Sheet_7: -421371157
+      Player Side Sheet_8: 16484056
+      Player Side Sheet_9: -1844595085
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

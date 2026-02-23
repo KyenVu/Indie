@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 4992307615882594149}
   - component: {fileID: 8204794309298786269}
   m_Layer: 6
-  m_Name: Square
+  m_Name: Destroyable
   m_TagString: Object
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28,8 +28,8 @@ Transform:
   m_GameObject: {fileID: 9204478411050630118}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 6.478277, y: 4.6827717, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 0.8, y: 0.8, z: 0.8}
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 6
@@ -73,7 +73,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -562607725
-  m_SortingLayer: 4
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: -1004788381, guid: 3a94e3c977b69e34d80642e6491a67aa, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}

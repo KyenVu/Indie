@@ -4,9 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Bullet
   - Object
   - ExplosionObject
+  - Enemy Bullets
+  - Player Bullet
+  - Bullet
   layers:
   - Default
   - TransparentFX
@@ -16,7 +18,7 @@ TagManager:
   - UI
   - Objects
   - Bullets
-  - 
+  - Barrier
   - 
   - 
   - 
@@ -50,11 +52,11 @@ TagManager:
   - name: Fence
     uniqueID: 3682328059
     locked: 0
-  - name: Player
-    uniqueID: 99576293
-    locked: 0
   - name: Objects
     uniqueID: 3732359571
+    locked: 0
+  - name: Player
+    uniqueID: 99576293
     locked: 0
   - name: UI
     uniqueID: 3128988629

@@ -1,0 +1,1293 @@
+fileFormatVersion: 2
+guid: fadeb4949da3b7247ab52cfb0ca89f58
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Background-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 666
+        width: 391
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd166a73a9c6fb4a8394768aefc4f44
+      internalID: -1426231329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 432
+        width: 370
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca39432223acb74b83b402739e537ad
+      internalID: -2059479833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 633
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd4fe3c325879042998484ab8056123
+      internalID: 1783163456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 596
+        width: 143
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b8b81d2bbb4b9469620787b1671bce
+      internalID: -975311201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 596
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99609a79be28795498b771511a59e9d5
+      internalID: 1060871666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 596
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617fcbae8aabf45429400105c04a72d9
+      internalID: 1674539952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 596
+        width: 144
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31d5e7e8c57f2540a2f8820ca579776
+      internalID: 1529330834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 550
+        width: 92
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b9ed285a7065b41ba5f02c425b3926
+      internalID: 1015824917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 518
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc586587cce82c449fc80a558e5fd2c
+      internalID: 883909426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 518
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92fe73b7697f4e4b868fe2306e94e55
+      internalID: 488694231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 518
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849c2f2bcf0f561408b79fd489e723e1
+      internalID: -150292884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 519
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629e03639f3451d44b00de4e9b030530
+      internalID: -2073685078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 519
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7e25f43d599e5468a110d1d12ea24b
+      internalID: -385065614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 519
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966d8a23968620645a19770e2c73031a
+      internalID: 1737115223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 503
+        width: 91
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd418462737fa5d42a9840da662c0c7d
+      internalID: -251180988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 438
+        width: 189
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfb0810c27ef4a4589bde764a3a0683
+      internalID: -1446047925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 438
+        width: 188
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7c77d4e573aad47be779fefa00bd08
+      internalID: 1950383095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 433
+        width: 96
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bfed0452a8c68468a04b0e382b6041
+      internalID: 1360805722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 354
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ac617525c6e3c4fb19d750f88aacd8
+      internalID: 2107934426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 354
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d60acf0ff8335f41898e7a485ff0f41
+      internalID: -1505819289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 354
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d99b75128a195a40a12dabdf0096d9d
+      internalID: -602489858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 354
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f148d73101bbf9d498a55b9e808632c7
+      internalID: -911796130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 354
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3665c683ec0d3914a8c1056021b2eaa3
+      internalID: 693990177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 354
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9688ccfa7ba9cb429d6067606df7537
+      internalID: 1229390886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 354
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18635ad731ad6d443bc7b1c6f1de1d15
+      internalID: -538563282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 216
+        width: 172
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d18d31ecd8dca94c9fbc7e2bd4d3b73
+      internalID: 270604044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 356
+        width: 121
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d278860fb946a5349846653dd6aa82c6
+      internalID: 433655210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 356
+        width: 121
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8450a473b0731ea44b90c195de4e158b
+      internalID: -1097392966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 286
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c2dcbcb1b3ed24d8f315f9d8ffd4e2
+      internalID: 144660483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 286
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffa30ac405dfca44b7a70bc671c7d22
+      internalID: -270928161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 286
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8e92084eda29c4181d4ff4bbce9ee3
+      internalID: -2029459066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 286
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dba5f7dfe3dd8449330cc935409362
+      internalID: 1821629961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 286
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21003518c8847ea419ca557d8a39fa04
+      internalID: -1311187301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 286
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85542f6599eb8c04cb850d3cad0765ac
+      internalID: -1767342009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 286
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af67ad7b7b306b45ba5e135718d8e11
+      internalID: 1577227535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 243
+        width: 207
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312dd6ac275bef54897404ff4ec9a25d
+      internalID: 878949601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 218
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd3ebc62b314f745af88d91e89c55d9
+      internalID: 1383234353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 218
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d54d19d608b5c848957800a24e768f3
+      internalID: 1048849635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 218
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac4e63c3167d9b44b30fb3b5f5b813f
+      internalID: -1999121727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 218
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443bc5422e5c05945b153329da862aca
+      internalID: -1776782846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 218
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eda12d5033cfbb4eba6bebbe0e72b0c
+      internalID: 663450710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 218
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf81bd82f403ee468bfb21a6c1d35ad
+      internalID: -1480790847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 218
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766cd4eef62620e4fbd2988dc3fdfa7c
+      internalID: 105132931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 181
+        width: 181
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acc970c4aa4e0e4687e97d69dc1929f
+      internalID: 1646512685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 149
+        width: 178
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20245d22d8b777e49af58f2913aee962
+      internalID: -1930965333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 149
+        width: 177
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3c5129143cc384989247d3e49ead87
+      internalID: 866796784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 149
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb42f27615ac2c44aa9f9a132f6214f
+      internalID: 1138381066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 29
+        width: 243
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db30963582aefb1488050812ff293721
+      internalID: -1841555314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 29
+        width: 188
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dba0550d956f24ab3ff8cfdace1822
+      internalID: -2061205163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 29
+        width: 151
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb11107737531743b1cee1320134bcf
+      internalID: 1308181673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 45
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551833877ece0e84d930266c4a561d2b
+      internalID: -258062365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 45
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb24850093b7a64d83c27e0b834a56c
+      internalID: -1690263126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 45
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31b288fbddb8d142ab7888e05470bfa
+      internalID: 1521505714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Background-Photoroom_0: -1426231329
+      Background-Photoroom_1: -2059479833
+      Background-Photoroom_10: -150292884
+      Background-Photoroom_11: -2073685078
+      Background-Photoroom_12: -385065614
+      Background-Photoroom_13: 1737115223
+      Background-Photoroom_14: -251180988
+      Background-Photoroom_15: -1446047925
+      Background-Photoroom_16: 1950383095
+      Background-Photoroom_17: 1360805722
+      Background-Photoroom_18: 2107934426
+      Background-Photoroom_19: -1505819289
+      Background-Photoroom_2: 1783163456
+      Background-Photoroom_20: -602489858
+      Background-Photoroom_21: -911796130
+      Background-Photoroom_22: 693990177
+      Background-Photoroom_23: 1229390886
+      Background-Photoroom_24: -538563282
+      Background-Photoroom_25: 270604044
+      Background-Photoroom_26: 433655210
+      Background-Photoroom_27: -1097392966
+      Background-Photoroom_28: 144660483
+      Background-Photoroom_29: -270928161
+      Background-Photoroom_3: -975311201
+      Background-Photoroom_30: -2029459066
+      Background-Photoroom_31: 1821629961
+      Background-Photoroom_32: -1311187301
+      Background-Photoroom_33: -1767342009
+      Background-Photoroom_34: 1577227535
+      Background-Photoroom_35: 878949601
+      Background-Photoroom_36: 1383234353
+      Background-Photoroom_37: 1048849635
+      Background-Photoroom_38: -1999121727
+      Background-Photoroom_39: -1776782846
+      Background-Photoroom_4: 1060871666
+      Background-Photoroom_40: 663450710
+      Background-Photoroom_41: -1480790847
+      Background-Photoroom_42: 105132931
+      Background-Photoroom_43: 1646512685
+      Background-Photoroom_44: -1930965333
+      Background-Photoroom_45: 866796784
+      Background-Photoroom_46: 1138381066
+      Background-Photoroom_47: -1841555314
+      Background-Photoroom_48: -2061205163
+      Background-Photoroom_49: 1308181673
+      Background-Photoroom_5: 1674539952
+      Background-Photoroom_50: -258062365
+      Background-Photoroom_51: -1690263126
+      Background-Photoroom_52: 1521505714
+      Background-Photoroom_6: 1529330834
+      Background-Photoroom_7: 1015824917
+      Background-Photoroom_8: 883909426
+      Background-Photoroom_9: 488694231
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

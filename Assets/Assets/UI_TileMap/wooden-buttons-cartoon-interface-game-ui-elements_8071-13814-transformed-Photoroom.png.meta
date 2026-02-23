@@ -1,0 +1,1293 @@
+fileFormatVersion: 2
+guid: b1b419dbb5e5f844884af2d8d07209d4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 666
+        width: 391
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49a60d253273334d85d1d0e4d7afd8c
+      internalID: -1903367882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 432
+        width: 370
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad45cd7b4902d6459fc4e1bc9051e57
+      internalID: -608760481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 633
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b4fff25d6671c41b603f795ecf8f8a
+      internalID: 831913847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 596
+        width: 143
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52ad47bfb457ac4aaf81177a00f380a
+      internalID: -1674734519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 596
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b86546a9dcc83a4ba4816bc5d610469
+      internalID: -604041029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 596
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f249eb9a26cc894fa4fc3ed14373523
+      internalID: -1153891535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 596
+        width: 144
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d3a7f089bd1ab4988ff1b8c3d95d85
+      internalID: 398177578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 550
+        width: 92
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c02cbbbeea36d3479032295d5e6a917
+      internalID: 972335225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 518
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fd990654bd1b34f84ad88679c21a8f
+      internalID: 518807396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 518
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142aa66690b7ab540bb516a5af88f1dd
+      internalID: 32043150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 518
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1d908ebd6683d42823d0eadf52d35e
+      internalID: 1316845365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 519
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff0c644dabe7e643bc171654a6895b5
+      internalID: 245207479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 519
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c6b9412c24e95408a77404c6a5e715
+      internalID: -1400898219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 519
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d335e837a5549fe46b2b0e4a759c7e1d
+      internalID: -1288263350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 503
+        width: 91
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c29024f4fe125c428f0849b8c72f800
+      internalID: -1073361140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 438
+        width: 189
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb17d7e2ee5fac4a9404bdcd6e19a8b
+      internalID: 989585615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 438
+        width: 188
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895396c06a955aa458a5d20ef8c26c70
+      internalID: 316430632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 433
+        width: 96
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7540f41e10789f4b86eb6e3b5da3ddb
+      internalID: 1711335158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 354
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853af6948a823a44d8bd002bf9bd10b9
+      internalID: 1490534758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 354
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842192daa018ca94bb07c4597d86ef9a
+      internalID: -1258190886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 354
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ed0ddf970c97149889e84d330adf25
+      internalID: 1375382512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 354
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a3352ad958bd14289fe8ef85b5b334
+      internalID: 1560635895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 354
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba007ada78901a342bc2952582d2056f
+      internalID: -845853478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 354
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de0b54f41e879549ac8b2f348ddd90f
+      internalID: -849455275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 354
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f7c80c94ecd8e46b09b9887121a822
+      internalID: -734263895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 216
+        width: 172
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdec5b98d66098342af0570a42ea7938
+      internalID: -314678256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 356
+        width: 121
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516f140c30e2f8c4eaceead84fad701a
+      internalID: -2090168576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 356
+        width: 121
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bb4ec0158d5f24085eccddf61697be
+      internalID: 1631662904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 286
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a206aab536987e41ac12acc0c74adb7
+      internalID: 2046959437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 286
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693078099fabd444590953fa04c9701b
+      internalID: 1589517078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 286
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683bc1f8ec847d24687ce0f6494ad7b4
+      internalID: 394397786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 286
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff9b2306b611324395df78063a067f8
+      internalID: -425008969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 286
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2f7ec8e8829174598face2e0a84a72
+      internalID: -1952700630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 286
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292cc14fdccbd4749bbe3bdd40b34117
+      internalID: 1064534110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 286
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5842f2611a029db42bbddacce126e7e7
+      internalID: -1857816140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 243
+        width: 207
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3b6b6784b9b2741a1a56635974ee7d
+      internalID: -1906994439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 218
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c9ac0769ef7c54da3436230c883b74
+      internalID: 1026568448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 218
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b2bfc88b02f4c44bababf094224ba5
+      internalID: -1461318200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 218
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78418663bedb2641b8fd56ab01f7058
+      internalID: 1294391505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 218
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9226c041b1096a4f916e71c2c0214fe
+      internalID: 1296427427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 218
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7cdc1d397fda84282454e0425a3a5e
+      internalID: 508981758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 218
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ceb7f8158d27c4c9f0c4c40e77519c
+      internalID: -1409331602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 218
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9764d9e8382dbd34fa4657507480b746
+      internalID: 405779850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 181
+        width: 181
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ffc3bb11993394c99a34216d4311eb
+      internalID: 1540147355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 149
+        width: 178
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcabbd023d9c004592ce278f5c012c9
+      internalID: 1901282108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 149
+        width: 177
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912e90f57a35fe0439fcd9e52328df07
+      internalID: -1991258649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 149
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197438a07c2373547b46438cf1a31ebf
+      internalID: -742362562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 29
+        width: 243
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98fd97711289c94993bf6f979698b76
+      internalID: -1317115049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 29
+        width: 188
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5485f514f450c468a9a09c7196251c
+      internalID: 454203501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 29
+        width: 151
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78817a57b5ee1af4a83111ea89bf784d
+      internalID: -1815206502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 45
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bb0927bbb1b174da74ba3b7748ebf4
+      internalID: -791880130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 44
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421d2fc9b703821428be59a4ed9ddf7d
+      internalID: 1530354995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 44
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0c33cccb2d4c54b9905f8abff8b525
+      internalID: 128648998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_0: -1903367882
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_1: -608760481
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_10: 1316845365
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_11: 245207479
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_12: -1400898219
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_13: -1288263350
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_14: -1073361140
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_15: 989585615
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_16: 316430632
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_17: 1711335158
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_18: 1490534758
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_19: -1258190886
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_2: 831913847
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_20: 1375382512
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_21: 1560635895
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_22: -845853478
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_23: -849455275
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_24: -734263895
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_25: -314678256
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_26: -2090168576
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_27: 1631662904
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_28: 2046959437
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_29: 1589517078
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_3: -1674734519
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_30: 394397786
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_31: -425008969
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_32: -1952700630
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_33: 1064534110
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_34: -1857816140
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_35: -1906994439
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_36: 1026568448
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_37: -1461318200
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_38: 1294391505
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_39: 1296427427
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_4: -604041029
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_40: 508981758
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_41: -1409331602
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_42: 405779850
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_43: 1540147355
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_44: 1901282108
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_45: -1991258649
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_46: -742362562
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_47: -1317115049
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_48: 454203501
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_49: -1815206502
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_5: -1153891535
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_50: -791880130
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_51: 1530354995
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_52: 128648998
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_6: 398177578
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_7: 972335225
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_8: 518807396
+      wooden-buttons-cartoon-interface-game-ui-elements_8071-13814-transformed-Photoroom_9: 32043150
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

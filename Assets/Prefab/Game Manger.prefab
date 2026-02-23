@@ -10,6 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 6519702205297961251}
   - component: {fileID: 5372563856899568464}
+  - component: {fileID: 625580976817236304}
+  - component: {fileID: 7088515249444703027}
   m_Layer: 0
   m_Name: Game Manger
   m_TagString: Untagged
@@ -30,7 +32,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &5372563856899568464
 MonoBehaviour:
@@ -46,7 +48,43 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   character: {fileID: 0}
   enemy: {fileID: 0}
-  startPlayerX: 2
+  gridWidth: 16
+  gridHeight: 7
+  cellSize: 1
+  startPlayerX: 1
   startPlayerY: 4
-  startEnemyX: 13
+  startEnemyX: 14
   startEnemyY: 4
+--- !u!114 &625580976817236304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 761981366937784864}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c817c853424aa646b90adab186a8f8d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  winPanel: {fileID: 0}
+  losePanel: {fileID: 0}
+  menuButtons:
+  - {fileID: 0}
+  - {fileID: 0}
+  restartButtons:
+  - {fileID: 0}
+  - {fileID: 0}
+  nextLevelButton: {fileID: 0}
+--- !u!114 &7088515249444703027
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 761981366937784864}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3afba08aa7092d428fc59726447088c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
