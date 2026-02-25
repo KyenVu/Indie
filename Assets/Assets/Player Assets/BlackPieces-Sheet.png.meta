@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9fe1652fc3b7bb842887881ee1d5da81
+guid: 2d9396a8908ce2c4c8b967866fabd3fe
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,64 +110,127 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: board_plain_04_0
+      name: BlackPieces-Sheet_0
       rect:
         serializedVersion: 2
-        x: 39
-        y: 103
-        width: 16
+        x: 1
+        y: 0
+        width: 14
         height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 91c4d38020e25254da276c449107f70b
-      internalID: 1020206503
+      spriteID: 140c4e4ac60ca6b4e8730efcb2dec32a
+      internalID: 303187308
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: board_plain_04_1
+      name: BlackPieces-Sheet_1
       rect:
         serializedVersion: 2
-        x: 23
-        y: 103
-        width: 16
-        height: 16
+        x: 17
+        y: 0
+        width: 14
+        height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5e9972e159bdc5419c18075a71d7cd4
-      internalID: -1623270913
+      spriteID: a515690de4f37454fa52534fbb8b634e
+      internalID: 1547801756
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: board_plain_04_2
+      name: BlackPieces-Sheet_2
       rect:
         serializedVersion: 2
-        x: 23
-        y: 103
-        width: 16
-        height: 16
+        x: 33
+        y: 0
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2aa025dbd82f02844b66ff111421e6ac
-      internalID: 5181106
+      spriteID: 25605e953c8d0b04bb3af313c3cf413a
+      internalID: 1962117674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackPieces-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a971f197aa027434f900628ca4c1e66a
+      internalID: -1205700591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackPieces-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca9b491f86eda6438761ea762a33cb7
+      internalID: 1714510122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackPieces-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4153b9433cb62e4fb7fab3aaccd7d10
+      internalID: -96305591
       vertices: []
       indices: 
       edges: []
@@ -183,11 +246,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      board_plain_04_0: 1020206503
-      board_plain_04_1: -1623270913
-      board_plain_04_2: 5181106
-      board_plain_04_3: -722241125
-      board_plain_04_4: 204321333
+      BlackPieces-Sheet_0: 303187308
+      BlackPieces-Sheet_1: 1547801756
+      BlackPieces-Sheet_2: 1962117674
+      BlackPieces-Sheet_3: -1205700591
+      BlackPieces-Sheet_4: 1714510122
+      BlackPieces-Sheet_5: -96305591
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

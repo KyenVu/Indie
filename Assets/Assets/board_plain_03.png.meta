@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1f8e5abdffc30eb438aba38d91cfa4c8
+guid: 1f5223be704b2394d810dba2f4b033f8
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 10
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -110,33 +110,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BlackPieces_0
+      name: board_plain_03_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 0
-        width: 12
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 85b17bc1c4075d148b30df54086744ee
-      internalID: 2112009708
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlackPieces_1
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 0
-        width: 13
+        x: 23
+        y: 119
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -145,92 +124,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74d287d7ec351624aa5401eb346faa81
-      internalID: -120286596
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlackPieces_2
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 0
-        width: 12
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a1c13122dfc02444f891ebba2c79a938
-      internalID: -1824971714
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlackPieces_3
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 0
-        width: 12
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ba30354da35f74d4981ad67a22c8b4a8
-      internalID: 1680484634
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlackPieces_4
-      rect:
-        serializedVersion: 2
-        x: 66
-        y: 0
-        width: 12
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 51896bdd051ea2f4db50f19c104f86e8
-      internalID: -141332175
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlackPieces_5
-      rect:
-        serializedVersion: 2
-        x: 82
-        y: 0
-        width: 12
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2e009e9c07bd2994c81ee2cc52b01fe6
-      internalID: -1258317421
+      spriteID: 9a63567de65974e41af28ae387e9ab4b
+      internalID: 166628606
       vertices: []
       indices: 
       edges: []
@@ -246,12 +141,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      BlackPieces_0: 2112009708
-      BlackPieces_1: -120286596
-      BlackPieces_2: -1824971714
-      BlackPieces_3: 1680484634
-      BlackPieces_4: -141332175
-      BlackPieces_5: -1258317421
+      board_plain_03_0: 166628606
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

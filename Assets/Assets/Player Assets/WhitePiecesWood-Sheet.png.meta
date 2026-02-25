@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6e1e5458bd56e374581e04fb487badb0
+guid: 21d8efae6e0485a4998ce53039d81cfe
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -44,11 +44,11 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
-  spriteExtrude: 6
+  spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 10
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: WhitePieces_Wood_0
+      name: WhitePiecesWood-Sheet_0
       rect:
         serializedVersion: 2
-        x: 2
+        x: 1
         y: 0
-        width: 12
-        height: 14
+        width: 14
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 90552163ffb181843b16e711c6ce379c
-      internalID: -1697520495
+      spriteID: 0e88d9b465a08244e9212d6bd79dfc49
+      internalID: 878762717
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WhitePieces_Wood_1
+      name: WhitePiecesWood-Sheet_1
       rect:
         serializedVersion: 2
         x: 17
         y: 0
-        width: 13
-        height: 16
+        width: 14
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3024a4076afc9d144b5c58882ba5ad95
-      internalID: -457675305
+      spriteID: 2ed1b3998da6c024ebfa5218ee0ec752
+      internalID: 361605978
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WhitePieces_Wood_2
+      name: WhitePiecesWood-Sheet_2
       rect:
         serializedVersion: 2
-        x: 34
+        x: 33
         y: 0
-        width: 12
-        height: 15
+        width: 14
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,20 +166,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7595e2fedf541f64dbc51ec97cc7b39c
-      internalID: -617444352
+      spriteID: a634c2289e63acc4db5ef2c711565f8e
+      internalID: 1381088155
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WhitePieces_Wood_3
+      name: WhitePiecesWood-Sheet_3
       rect:
         serializedVersion: 2
-        x: 50
+        x: 49
         y: 0
-        width: 12
-        height: 16
+        width: 14
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,20 +187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 19902dada03ca9b47add40e2fa3f784d
-      internalID: 1395100147
+      spriteID: 212ed8705bd5deb44a3431fbb90e0df2
+      internalID: 1111619472
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WhitePieces_Wood_4
+      name: WhitePiecesWood-Sheet_4
       rect:
         serializedVersion: 2
-        x: 66
+        x: 65
         y: 0
-        width: 12
-        height: 16
+        width: 14
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -208,20 +208,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c6daf35f430d0794e95ec05aeef7aa0a
-      internalID: -1216722352
+      spriteID: 591ae8f37d55126459b0cfb58e2d30cf
+      internalID: 206220727
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WhitePieces_Wood_5
+      name: WhitePiecesWood-Sheet_5
       rect:
         serializedVersion: 2
-        x: 82
+        x: 81
         y: 0
-        width: 12
-        height: 16
+        width: 14
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,8 +229,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f82932b30ad2c74c86095f8a4941fa5
-      internalID: 567387669
+      spriteID: 4c06d9bfdd2f28e45aece9eef298b0ae
+      internalID: -991747745
       vertices: []
       indices: 
       edges: []
@@ -246,12 +246,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      WhitePieces_Wood_0: -1697520495
-      WhitePieces_Wood_1: -457675305
-      WhitePieces_Wood_2: -617444352
-      WhitePieces_Wood_3: 1395100147
-      WhitePieces_Wood_4: -1216722352
-      WhitePieces_Wood_5: 567387669
+      WhitePiecesWood-Sheet_0: 878762717
+      WhitePiecesWood-Sheet_1: 361605978
+      WhitePiecesWood-Sheet_2: 1381088155
+      WhitePiecesWood-Sheet_3: 1111619472
+      WhitePiecesWood-Sheet_4: 206220727
+      WhitePiecesWood-Sheet_5: -991747745
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
