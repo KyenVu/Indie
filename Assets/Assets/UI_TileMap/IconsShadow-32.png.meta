@@ -223,7 +223,7 @@ TextureImporter:
         width: 29
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -231,6 +231,27 @@ TextureImporter:
       bones: []
       spriteID: f09d1fe1c7d3e7c4d8c4a0ab0346e00f
       internalID: 2139872790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsShadow-32_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 130
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64de95ab81d88e4fac13235b1639bde
+      internalID: 1793372458
       vertices: []
       indices: 
       edges: []
@@ -252,6 +273,7 @@ TextureImporter:
       IconsShadow-32_3: 222086026
       IconsShadow-32_4: -487523279
       IconsShadow-32_5: 2139872790
+      IconsShadow-32_6: 1793372458
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
