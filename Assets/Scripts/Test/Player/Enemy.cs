@@ -14,7 +14,7 @@ public class Enemy : MonoBehaviour, IDamageable
     public Button moveRight;
 
     public LayerMask obstacleLayer;
-    public Animator animator;
+
     public static event Action onEnemyDeath;
 
     public void SetInitPosition(int x, int y)
@@ -34,51 +34,39 @@ public class Enemy : MonoBehaviour, IDamageable
 
     private void MoveUp()
     {
-        if (AttemptMove(x, y + 1))
-        {
-            SetAnimationState("MoveUp");
-        }
+        AttemptMove(x, y + 1);
     }
 
     private void MoveDown()
     {
-        if (AttemptMove(x, y - 1))
-        {
-            SetAnimationState("MoveDown");
-        }
+        AttemptMove(x, y - 1);
     }
 
     private void MoveLeft()
     {
-        if (AttemptMove(x - 1, y))
-        {
-            SetAnimationState("MoveRight");
-        }
+        AttemptMove(x - 1, y);
     }
 
     private void MoveRight()
     {
-        if (AttemptMove(x + 1, y))
-        {
-            SetAnimationState("MoveLeft");
-        }
+        AttemptMove(x + 1, y);
     }
 
     private bool AttemptMove(int newX, int newY)
     {
-        if (newX < 0 || newX >= GridManager.Instance.Grid.GetX() || newY < 0 || newY >= GridManager.Instance.Grid.GetY())
+        if (newX < 0 || newX >= GridManager.Instance.Grid.GetX() ||
+            newY < 0 || newY >= GridManager.Instance.Grid.GetY())
         {
             Debug.Log("Cannot move out of bounds");
             return false;
         }
 
-        // Check for obstacles using Physics2D.OverlapCircle
         Vector2 targetPosition = GridManager.Instance.Grid.GetGridCenterPosition(newX, newY);
-        Collider2D obstacle = Physics2D.OverlapCircle(targetPosition, 0.4f, obstacleLayer); // Adjust radius as needed
+        Collider2D obstacle = Physics2D.OverlapCircle(targetPosition, 0.4f, obstacleLayer);
 
         if (obstacle != null)
         {
-            Debug.Log("Obstacle detected at: " + newX + ", " + newY + " - Cannot move.");
+            Debug.Log("Obstacle detected at: " + newX + ", " + newY);
             return false;
         }
 
@@ -93,34 +81,6 @@ public class Enemy : MonoBehaviour, IDamageable
         transform.position = GridManager.Instance.Grid.GetGridCenterPosition(x, y);
     }
 
-    private void SetAnimationState(string activeState)
-    {
-        // Reset all movement-related animation states
-        animator.SetBool("MoveUp", false);
-        animator.SetBool("MoveDown", false);
-        animator.SetBool("MoveLeft", false);
-        animator.SetBool("MoveRight", false);
-
-        animator.SetBool(activeState, true);
-
-        StartCoroutine(SetIdleAfterMovement());
-    }
-
-    private IEnumerator SetIdleAfterMovement()
-    {
-        yield return new WaitForSeconds(1f); // Adjust delay to match movement animation duration
-        ResetAnimationStates();
-    }
-
-    private void ResetAnimationStates()
-    {
-        // Reset all animation states to idle
-        animator.SetBool("MoveUp", false);
-        animator.SetBool("MoveDown", false);
-        animator.SetBool("MoveLeft", false);
-        animator.SetBool("MoveRight", false);
-    }
-
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Bullet"))
@@ -132,18 +92,12 @@ public class Enemy : MonoBehaviour, IDamageable
 
     public void GetDamage()
     {
-        animator.SetTrigger("IsDead"); // Trigger death animation
-        StartCoroutine(HandleDeath());
+        HandleDeath();
     }
 
-    private IEnumerator HandleDeath()
+    private void HandleDeath()
     {
-        // Wait for the death animation to complete
-        AnimatorStateInfo stateInfo = animator.GetCurrentAnimatorStateInfo(0);
-        yield return new WaitForSeconds(stateInfo.length);
-
-        // Invoke the onPlayerDeath event after animation
         onEnemyDeath?.Invoke();
-        Debug.Log("Player received damage and is out of health.");
+        Debug.Log("Enemy received damage and is out of health.");
     }
 }

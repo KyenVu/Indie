@@ -14,7 +14,6 @@ public class Shot : MonoBehaviour
     public float shootCooldown = 1f;
     private float nextShotTime = 0f;
     public float shotDelay = 0.2f;
-    public Animator animator;
 
     public AudioClip shotSound; // Shot sound effect
     private AudioSource audioSource; // AudioSource component
@@ -42,7 +41,7 @@ public class Shot : MonoBehaviour
     {
         if (Time.time >= nextShotTime && currentBullets > 0)
         {
-            animator.SetTrigger("shot");
+            
 
             // Play the shot sound
             PlayShotSound();
@@ -79,7 +78,7 @@ public class Shot : MonoBehaviour
     private IEnumerator SetIdleAfterShooting()
     {
         yield return new WaitForSeconds(1f);
-        animator.SetTrigger("Idle");
+        
     }
 
     private void PlayShotSound()
